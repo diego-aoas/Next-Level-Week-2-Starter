@@ -114,6 +114,6 @@
         grid-area: button;
     }
     .total-connections{
-        grid-area: texting;
+        grid-area: texting;;
     }
 }
